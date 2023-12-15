@@ -4,4 +4,4 @@
 Проведены предварительное исследование базы данных, а также детальный анализ вакансий и работодателей. Также более детально исследованы вакансии связанные с обработкой данных и непосредственно Data Science.
 
 ### Ссылка на ноутбук: 
-[Project-2.ipynb](https://github.com/Blooodniy/PROJECT-2/blob/40f0128d630b695f91bebbef14ab07145f0fa715/Project-2.ipynb)
+[Project-2.ipynb](https://github.com/Blooodniy/PROJECT-2/blob/master/Project_2.ipynb)
